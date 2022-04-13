@@ -1,0 +1,25 @@
+ Q 1:  How to write comments in CSS?
+multi line comment ==> /* dfGgdgd*/
+single line comments ==> //
+
+Q 2 : why do you pseudo class?
+Pseudo-classes let you apply a style to an element not only in relation to the content of the document tree, but also in relation to external factors like the history of the navigator ( :visited , for example), the status of its content (like :checked on certain form elements), or the position of the mouse.
+
+Q 3 : How is specificity applied?
+If there are more than two css properties applies on same element in that th selector have more
+more specificity that property will be applied on that element.
+
+Q 4 : What method allows an element to be moved from its current position?
+move up, move down, move right, move left
+
+Q 4 : what properties does flex model have?
+display : Use box in HTML
+flex direction : used to fix direction of flex item inside container
+align items : Vertically align the flex items
+
+Q 5 : What is the difference between flex and grids?
+it is in one dimentional property, it is used in vertical or horizontal alignment in one simentional direction.
+
+Q 6 : Give an example where you cannot use flexbox, and you can only use grids?
+flex : navbar 
+grid : calculator
