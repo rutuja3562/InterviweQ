@@ -1,3 +1,5 @@
+ CSS INTERVIEW QUESTIONS
+ 
  Q 1:  How to write comments in CSS?
 multi line comment ==> /* dfGgdgd*/
 single line comments ==> //
@@ -33,7 +35,6 @@ Pseudo-element selector:used to select elements based on select and style a part
 
 Q 8 : What does object-fit do?
 Image or vedio should be resized to fit its container.
-
 Q 9 : what rules can br used to define animation?
 The @ keyframe ruels specifies the animation. Animation is created by graduaaly 
 changing from one set of css style to another. During the animation you can change the set of 
