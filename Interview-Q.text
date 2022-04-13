@@ -23,3 +23,12 @@ it is in one dimentional property, it is used in vertical or horizontal alignmen
 Q 6 : Give an example where you cannot use flexbox, and you can only use grids?
 flex : navbar 
 grid : calculator
+
+Q 7 : What are combinators? give examples of how you can use them?
+Combinators is something that explains relationship between selector;
+simple selector : used to select elements based on class, id, name;
+combinators :  used to select elements based relationship between of them
+Pseudo-class selector: used to select elements based on certain state
+Pseudo-element selector:used to select elements based on select and style a part of an element
+
+
