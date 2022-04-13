@@ -31,4 +31,5 @@ combinators :  used to select elements based relationship between of them
 Pseudo-class selector: used to select elements based on certain state
 Pseudo-element selector:used to select elements based on select and style a part of an element
 
-
+Q 8 : What does object-fit do?
+Image or vedio should be resized to fit its container.
